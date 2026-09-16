@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial macOS release.",
+  "pub_date": "2026-09-13T12:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/mirror89/whispertype-updates/releases/download/v1.0.0/WhisperType.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/mirror89/whispertype-updates/releases/download/v1.0.0/WhisperType.app.tar.gz"
+    }
+  }
+}
